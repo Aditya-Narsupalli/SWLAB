@@ -62,7 +62,7 @@ def email_classifier():
     print("\n-------------------------")
 
 
-# Running the program is a must during 
+# Running the program is a must 
 if __name__ == "__main__":
     email_classifier()
 #this is comment
